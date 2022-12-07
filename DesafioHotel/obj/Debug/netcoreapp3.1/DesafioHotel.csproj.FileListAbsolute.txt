@@ -1,0 +1,14 @@
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\bin\Debug\netcoreapp3.1\DesafioHotel.exe
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\bin\Debug\netcoreapp3.1\DesafioHotel.deps.json
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\bin\Debug\netcoreapp3.1\DesafioHotel.runtimeconfig.json
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\bin\Debug\netcoreapp3.1\DesafioHotel.runtimeconfig.dev.json
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\bin\Debug\netcoreapp3.1\DesafioHotel.dll
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\bin\Debug\netcoreapp3.1\DesafioHotel.pdb
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\obj\Debug\netcoreapp3.1\DesafioHotel.csproj.AssemblyReference.cache
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\obj\Debug\netcoreapp3.1\DesafioHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\obj\Debug\netcoreapp3.1\DesafioHotel.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\obj\Debug\netcoreapp3.1\DesafioHotel.AssemblyInfo.cs
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\obj\Debug\netcoreapp3.1\DesafioHotel.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\obj\Debug\netcoreapp3.1\DesafioHotel.dll
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\obj\Debug\netcoreapp3.1\DesafioHotel.pdb
+C:\Users\vinic\Desktop\C#_Projetos\BootcampDio\DesafioHotel\DesafioHotel\obj\Debug\netcoreapp3.1\DesafioHotel.genruntimeconfig.cache
